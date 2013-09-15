@@ -1,4 +1,4 @@
 danielpronych.github.com
 ========================
 
-Daniel Pronych (Github.com)
+* Daniel Pronych (Github.com / Github.io)
